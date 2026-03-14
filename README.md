@@ -42,12 +42,12 @@ A sleek, custom-built Minecraft launcher for Windows with a dark monochrome UI, 
 ```
 MinecraftLauncher/
 ├── MainWindow.xaml          # Main UI layout and all WPF styles
-├── MainWindow.xaml.cs
-├── PercentageToWidthConverter.cs         # Code-behind (event handlers, logic)
+├── MainWindow.xaml.cs       # Code-behind (event handlers, logic)
+├── PercentageToWidthConverter.cs        
 ├── AssemblyInfo.cs          # Assembly theme configuration
 └── Resources/
     └── banner.jpg
-    └── logo.png            # Home page banner background image
+    └── logo.png            
 ```
 
 ---
