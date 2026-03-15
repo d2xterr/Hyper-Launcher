@@ -11,10 +11,8 @@ A sleek, custom-built Minecraft launcher for Windows with a dark monochrome UI, 
 - **Custom Builds via Drag & Drop** — Drop any `.zip` file onto the launcher window to install a custom build instantly
 - **Versions Manager** — Browse all installed builds with folder paths, install dates, and tracked playtime
 - **Settings Panel** — Configure your username, fullscreen mode, close-on-launch behaviour, and builds folder path
-- **Frameless Window** — Custom titlebar with draggable window, minimise and close controls
 - **Custom Version Builder** *(coming soon)* — Build and package your own Minecraft versions directly inside the launcher using a custom editor
 - **Theme Editor** *(coming soon)* — Fully customise the launcher's colours, accents, and style with a built-in visual theme editor
-- **Dark Monochrome Theme** — Fully custom WPF styles: scrollbars, list boxes, text boxes, and buttons all themed consistently
 
 ---
 
